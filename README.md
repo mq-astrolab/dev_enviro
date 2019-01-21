@@ -13,7 +13,7 @@ The imported repository is here:
 
 https://github.com/mq-astrolab/mq_spectrograph
 
-##II. Directory Tree
+## II. Directory Tree
 
 I suggest we use the following directory tree.
 
@@ -25,7 +25,7 @@ for example:  c:\users\blaise\documents\mq-astrolab\codestore\mq_spectrograph
               c:\users\blaise\documents\mq-astrolab\datastore
               
               
-III. Cloud storage
+## III. Cloud storage
 
 I created this directory for cloud store for sharing fits and other large files:
 
@@ -38,7 +38,7 @@ For convenience I can add your cloudstor usernamed to the share directory and th
 The desktop clients are here:
 https://cloudstor.aarnet.edu.au/client-download/
 
-IV. Python and Integrated Development Environment
+## IV. Python and Integrated Development Environment
 
 For python download Anaconda from here, which is available for Windows, Linux and OS X
 
@@ -48,17 +48,19 @@ Download version for Python 3.
 
 When going through the installer, choose to also install Visual Studio Code.
 
-a. As far a IDE, Christoph uses PyCharm, which is also cross platform.
+### a. As far a IDE, Christoph uses PyCharm, which is also cross platform.
 
 I propose using Visual Studio Code since it already install along with Anaconda.
 
 Both are free. PyCharm's bigger brother IntelliJ IDEA is also free for students.
 
-b. As an addition step if you plan to use git via ssh, create a public key in your home directory. It will be in somewhere like c:\users\blaise\.ssh
+### b. As an addition step if you plan to use git via ssh:
+
+Create a public key in your home directory. It will be in somewhere like c:\users\blaise\.ssh
 
 Copy and paste that key to github.com under keys. Now you should be able to use git to automatically fetch and push changes to the repository.
 
-V. Importing the repository into Visual Studio Code.
+## V. Importing the repository into Visual Studio Code.
 
 Now that everything is setup. Start up Visual Studio Code. Go to "File" and "New Window" to start fresh.
 
@@ -81,3 +83,16 @@ Open a script and start working!
 Your IDE should look like this:
 
 ![alt text](https://raw.githubusercontent.com/mq-astrolab/dev_enviro/master/Screenshot.png)
+
+## VI. Summary
+
+In conclusion, the project github page is:
+
+https://github.com/mq-astrolab/mq_spectrograph
+
+Cloud storage is here:
+
+https://cloudstor.aarnet.edu.au/plus/s/0y8pRpeXIVgb05J
+
+Install Anaconda and Visual Studio Code
+
