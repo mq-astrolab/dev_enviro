@@ -48,13 +48,15 @@ Download version for Python 3.
 
 When going through the installer, choose to also install Visual Studio Code.
 
-### a. As far a IDE, Christoph uses PyCharm, which is also cross platform.
+### a. As far a Integrated Development Environments
 
-I propose using Visual Studio Code since it already install along with Anaconda.
+Christoph uses PyCharm, which is also cross platform.
+
+I propose using Visual Studio Code since it already installs along with Anaconda.
 
 Both are free. PyCharm's bigger brother IntelliJ IDEA is also free for students.
 
-### b. As an addition step if you plan to use git via ssh:
+### b. As an additional step if you plan to use git via ssh:
 
 Create a public key in your home directory. It will be in somewhere like c:\users\blaise\.ssh
 
