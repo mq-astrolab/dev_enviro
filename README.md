@@ -1,7 +1,7 @@
 # dev_enviro
 Development Environment Notes
 
-##I. Standardization
+## I. Standardization
 
 So that we're all on the same page. Let us standardize our development environment for the Macquarie teaching spectrograph data reduction project.
 
