@@ -1,7 +1,7 @@
 # dev_enviro
 Development Environment Notes
 
-I. Standardization
+##I. Standardization
 
 So that we're all on the same page. Let us standardize our development environment for the Macquarie teaching spectrograph data reduction project.
 
@@ -13,7 +13,7 @@ The imported repository is here:
 
 https://github.com/mq-astrolab/mq_spectrograph
 
-II. Directory Tree
+##II. Directory Tree
 
 I suggest we use the following directory tree.
 
