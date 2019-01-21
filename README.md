@@ -64,4 +64,20 @@ Now that everything is setup. Start up Visual Studio Code. Go to "File" and "New
 
 Use the shortcut, Ctrl+Shift+P, then type "Git: Clone" and enter
 
-It will prompt you to enter a URL and type or paste in 
+It will prompt you to enter a URL and type or paste in:
+
+git@github.com:mq-astrolab/mq_spectrograph.git
+
+https://github.com/mq-astrolab/mq_spectrograph.git
+
+depending on whether you use http or ssh
+
+Select the folder "codestore" the mq_spectrograph repo and directory will be created there.
+
+A popup asking to open the repository will appear. Click "open repository"
+
+Open a script and start working!
+
+Your IDE should look like this:
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
