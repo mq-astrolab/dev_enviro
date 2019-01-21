@@ -80,4 +80,4 @@ Open a script and start working!
 
 Your IDE should look like this:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/mq-astrolab/dev_enviro/master/Screenshot.png)
